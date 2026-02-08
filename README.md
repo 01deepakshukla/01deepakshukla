@@ -3,7 +3,7 @@
 ### 🎓 B.Tech Student @ BBDU | 🚩 GFG Campus Mantri
 
 - 💻 **Java Developer** | DSA & Spring Boot
-- 🎯 **Goal:** Software Engineer in Gulf Countries 🇦🇪
+- 🎯 
 - 🌐 **LinkedIn:** Aiming for 20k+ Connections
 
 ---
