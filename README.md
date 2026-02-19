@@ -1,4 +1,4 @@
-# Hi 👋, I'm Deepak Shukla!
+# Hi 👋, I'm Deepak Shukla
 
 ### 🎓 B.Tech Student @ BBDU | 🚩 GFG Campus Mantri
 
