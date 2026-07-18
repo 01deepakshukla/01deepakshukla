@@ -121,7 +121,7 @@ I actively practice **Data Structures, Algorithms & Competitive Programming** ac
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Deepak_Shukla-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/01deepakshukla)
 
-[![Gmail](https://img.shields.io/badge/Gmail-deepakshukl01%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepakshukl01@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-deepakshukl01%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepakshuk01@gmail.com)
 
 ---
 
