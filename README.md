@@ -1,12 +1,21 @@
 # Hi 👋, I'm Deepak Shukla
 
-### 🎓 B.Tech Student @ BBDU | 🚩 GFG Campus Mantri
+### 🚀 Software Engineer | Java & Spring Boot | MERN Stack | AI/ML
 
-- 💻 **Java Developer** | DSA & Spring Boot
-- 
-- 🌐 **LinkedIn:** Aiming for 20k+ Connections
+🎓 **B.Tech CSE (Artificial Intelligence) @ BBDU**
 
----
+* 💻 **Software Development:** Java • DSA • OOP • Spring Boot • REST APIs
+* 🌐 **Full-Stack Development:** MongoDB • Express.js • React.js • Node.js
+* 🤖 **AI/ML:** Machine Learning • Artificial Intelligence • AI-Powered Applications
+* 🧠 Passionate about **Data Structures, Algorithms & Competitive Programming**
+* 🛠️ Building **scalable full-stack applications, robust backend systems & intelligent AI solutions**
+* 📈 Continuously improving through **real-world projects, open source & problem-solving**
+* 🤝 Connected with a growing professional network of **20K+ on LinkedIn**
+
+### 🎯 Mission
+
+**Turning complex problems into scalable software and intelligent AI-driven solutions.**
+
 
 ### 🛠️ Languages and Tools
 <p align="left">
