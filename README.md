@@ -54,11 +54,11 @@
 
 I actively practice **Data Structures, Algorithms & Competitive Programming** across multiple coding platforms.
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-01deepakshukla-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/01deepakshukla/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-01deepakshukla-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode/)
 
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-codewithdeepak01-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/codewithdeepak01)
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-codewithedeepak-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/codewithedeepak)
+[![Codeforces](https://img.shields.io/badge/Codeforces-codewithedeepak-1F8ACB?style=for-the-badge&logok)
 
 [![CodeChef](https://img.shields.io/badge/CodeChef-codewdeepak01-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/codewdeepak01)
 
